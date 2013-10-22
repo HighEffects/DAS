@@ -6,8 +6,6 @@ Drone Automation System
 
 Sistema para automação e inteligencia artificial de drones. O sistema funciona em cima de outros sistemas de voo e piloto automatico captando dados com sensores e tomando decisões mais complexas como desviar de objetos e recalcular trajetorias, alem de auxiliar na captura de imagens e de dados com sensores. 
 
-Este sistema utiliza linux, sensores e hardware existentes. A ideia é começar o desenvolvimento utilizando o sistema de voo PX4 e o Raspberry Pi.
-
 ### Features
 
 * Sensores que capturam uma nuvem de pontos do ambiente
